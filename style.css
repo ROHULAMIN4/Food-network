@@ -1,0 +1,132 @@
+body{
+    margin: 0;
+    padding: 0;
+
+}
+header{
+    display: flex;
+    background-image: url(images/shapes/header.jpg);
+    background-repeat: no-repeat;
+    height: 200px;
+}
+.logo-section{
+    width: 40%;
+}
+.conatact-section{
+    width: 40%;
+    text-align: right;
+}
+.conatact-section a{
+    display: block;
+    text-decoration: none;
+    color: rgb(223, 205, 205);
+    font-size: 30px;
+}
+.conatact-section a:hover{
+    text-decoration: underline;
+}
+h1{
+    font-size: 60px;
+    margin-left: 5%;
+    margin-top: 10%;
+}span{
+    color: orange;
+}
+#das{
+    color: red;
+}
+i{
+    margin-right: 10px;
+    color: white;
+}
+.section-top{
+    display: flex;
+    background-image: url(images/shapes/Frame\ 57.jpg);
+    background-repeat: no-repeat;
+ 
+    
+    
+}
+.decsription-box{
+    width: 40%;
+    margin-left: 5%;
+    margin-right: 5%;
+    margin-top: 30px;
+}
+.img-box{
+    display: flex;
+    width: 40%;
+}
+.img-box img{
+    width: 80%;
+}
+.link{
+    text-decoration: none;
+  background-image: linear-gradient(orange,cyan);
+    padding: 15px 30px;
+    color: white;
+    border-radius: 20px;
+    margin-bottom: 30px;
+    font-size: 20px;
+    
+}
+p{
+    margin-bottom: 40px;
+}
+.aboutme-section{
+    display: flex;
+    background-image: url(images/shapes/Frame\ 58.jpg);
+    background-repeat: no-repeat;
+    height: 600px;
+    background-position: left;
+}
+.headline{
+    text-align: center;
+}
+.box-section{
+    display: flex;
+}
+.box1{
+    
+    
+    width: 30%;
+    border: 2px solid red;
+    border-radius: 15px;
+    margin-left: 5%;
+    margin-right: 5%;
+    box-shadow: 10px 10px 40px gray;
+}
+.box-img img{
+    width: 95%;
+    padding: 10px;
+}
+.box-describe{
+    padding: 10px;
+}
+.box-describe h3{
+    text-align: center;
+    color: orange;
+    font-size: 30px;
+}
+.achievement{
+    display: flex;
+    box-shadow: 10px 10px 30px gray;
+    margin-top: 50px;
+    border-radius: 30px;
+}
+.achivement1{
+    width: 30%;
+    margin-left: 10%;
+    margin-right: 10%;
+}
+.heading-footer{
+    background-color: black;
+    color: white;
+    text-align: center;
+    height: 250px;
+    
+}
+.heading-footer h1{
+   padding: 50px 0px;
+}
+    
